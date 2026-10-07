@@ -18,6 +18,28 @@ The analysis focuses on:
 - Product-level performance
 - What-if price adjustment analysis
 - KPI and target monitoring
+  
+## Source Files
+
+The source data used to build the Power BI report is included in this repository:
+
+- `AdventureWorks Calendar Lookup.csv`
+- `AdventureWorks Customer Lookup.csv`
+- `AdventureWorks Product Categories Lookup.csv`
+- `AdventureWorks Product Lookup.csv`
+- `AdventureWorks Product Subcategories Lookup.csv`
+- `AdventureWorks Returns Data.csv`
+- `AdventureWorks Sales Data 2020.csv`
+- `AdventureWorks Sales Data 2021.csv`
+- `AdventureWorks Sales Data 2022.csv`
+- `AdventureWorks Territory Lookup.csv`
+- `Product Category Sales (Unpivot Demo).csv`
+
+## Power BI Report File
+
+The completed Power BI report is included in this repository:
+
+**[View / Download the AdventureWorks Power BI Report](AdventureWorks%20Report.pbix)**
 
 ## Executive Dashboard
 
